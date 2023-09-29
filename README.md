@@ -1,2 +1,2 @@
-# challenge-1
+# accesibility-revamp-seo
 accessibility code refactor
